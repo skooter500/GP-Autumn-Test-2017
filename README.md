@@ -5,8 +5,8 @@
 - This is an open book test. You can use any of your own sketches, any of the examples from the course website or the Processing reference during the test.
 - No conferring or collaboration.
 - No use of Google, Facebook, Slack or any any other web resources permitted.
-- I suggest you commit your sketch to a git repository or otherwise back up your work during the test!
-- zip up your project and subit the zip file to webcourses when you are finished. 
+- I suggest you commit your sketch to a git repository or otherwise back up your work regularly during the test!
+- zip up your project and email the zip file to bryan.duggan@dit.ie when you are finished. 
 - Make sure your zip file is named like D111111_Bryan_Duggan.zip (replace with your student number and name)
 
 Here is a video of the sketch you will be making today:
@@ -30,6 +30,8 @@ Marking scheme:
 | Spray collisions with the bees | 20 |
 | Use of an ArrayList | 10 |
 
-If you cant figure out how to do a part of the test, you should move on and do other parts. You should try to use classes in your solution, but its not essential. 
+If you can't figure out how to do a part of the test, you should move on and do other parts. You should try to use classes in your solution, but its not essential. 
 
-At the end of the test, zip up your sketch folder making sure it is named correctly and submit it to webcourses. *Make sure and save your work regularly*.
+At the end of the test, zip up your sketch folder making sure it is named correctly and email it to bryan.duggan@dit.ie
+
+*Make sure and save your work regularly*.
